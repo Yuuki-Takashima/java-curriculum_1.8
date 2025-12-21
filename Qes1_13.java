@@ -191,3 +191,4 @@ public class Qes1_13 {
         System.out.println(ageIntFromStr >= 25 || heightIntFromStr >= 160);
     }
 }
+
